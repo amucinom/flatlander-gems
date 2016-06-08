@@ -1,0 +1,25 @@
+[{
+	"name": "Dodecahedron Gem",
+	"price": 2,
+	"description": "This gem has 12 sides in total!",
+	"shine": 6,
+	"rarity": 10,
+	"color": "#FC615C",
+	"faces": 12,
+	"images": [
+		"img/dodeca.png"
+	],
+	"reviews": [
+		{
+			"stars": 5,
+			"body": "I love this product!",
+			"author": "joe@thomas.com"
+		},
+		{
+			"stars": 1,
+			"body": "This product sucks",
+			"author": "tim@hater.com"
+		}
+	],
+	"canPurchase": true
+}]
