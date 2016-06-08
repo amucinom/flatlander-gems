@@ -11,3 +11,9 @@
 .ng-valid.ng-dirty {
 	border-color: #78FA89;
 }
+
+img {
+	width: calc(100%/4);
+	display: block;
+	margin: 0 auto;
+}
